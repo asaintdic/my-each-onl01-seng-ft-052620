@@ -8,5 +8,5 @@ end
   array
 end
 words = ['hi', 'hello', 'bye', 'goodbye']
-my_each(['hi', 'hello', 'bye', 'goodbye']) do |word| puts "#{word}, Alain!"
+my_each(['hi', 'hello', 'bye', 'goodbye']) do |word|  "#{word}"
 end
